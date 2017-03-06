@@ -7,9 +7,12 @@ title: youngda's blog
 subtitle: Never too old to learn
 description: a bug in the internet world
 author: youngda
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
+avatar: /images/pic.jpg
 
+duoshuo_shortname: youngda
+baidu_analytics: aeafc7d8b24b58b491c69eca7ee3ee7b
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com/child
@@ -63,7 +66,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
