@@ -13,7 +13,7 @@ tags:
 	git clone https://github.com/youngda/youngda.github.io.git
 	下载安转hexo
 	sudo npm install -g hexo-cli
-	安装
+	安装:ps(seve前面两个横线，这是排版问题吗...)
 	sudo npm install hexo-deployer-git --save
 	sudo npm install
 步骤三：工作就完成了，开始新建博客吧！
